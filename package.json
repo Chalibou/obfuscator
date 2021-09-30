@@ -1,0 +1,27 @@
+{
+  "name": "project-obfuscator",
+  "version": "1.0.0",
+  "description": "Script for preparing app for production",
+  "main": "obfuscate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chalibou/obfuscator.git"
+  },
+  "keywords": [
+    "obfuscate",
+    "production"
+  ],
+  "author": "Chalibou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chalibou/obfuscator/issues"
+  },
+  "homepage": "https://github.com/Chalibou/obfuscator#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "javascript-obfuscator": "^2.19.0"
+  }
+}
